@@ -13,7 +13,7 @@ um eine intelligente Logik zur kontinuierlichen Überwachung der Raumluftqualit�
 - Intelligente Logik: Grenzwerte(Normal/Warnung/Alarm), Priorisierte Maßnahmen, Energieoptimierung, Vermeidung unnötiger Laufzeiten
 
 # Technologien
-C#
-.NET (Konsolenanwendung)
-Visual Studio 2022
-xUnit (Tests)
+- C#
+- .NET (Konsolenanwendung)
+- isual Studio 2022
+- xUnit (Tests)
