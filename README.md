@@ -16,5 +16,5 @@ The goal is to maintain a healthy indoor climate, improve comfort, and reduce en
 
 - C#
 - .NET (Konsolenanwendung)
-- isual Studio 2022
+- Visual Studio 2022
 - xUnit (Tests)
