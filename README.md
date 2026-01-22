@@ -1,18 +1,19 @@
-# Raumluftqualitaet-Ueberwachungssystem
+# Indoor Air Quality Monitoring System
 
-Echtzeit-Überwachungs- und Optimierungssystem für Raumluftqualität mit Smart-Home-Integration
-Dieses Projekt erweitert ein Gebäudeautomationssystem (ELVIS)
-um eine intelligente Logik zur kontinuierlichen Überwachung der Raumluftqualität und zur automatischen Steuerung von Smart-Home-Geräten.
+Real-time monitoring and optimization system for indoor air quality with smart home integration
+This project extends an existing building automation system (ELVIS) with an intelligent control logic for continuous indoor air quality monitoring and automatic smart device control.
+The goal is to maintain a healthy indoor climate, improve comfort, and reduce energy consumption through automated, data-driven decisions.
 
 
 # Features
 
-- Echtzeit-Überwachung von: CO₂Temperatur, Luftfeuchtigkeit, Feinstaub
-- Wetterabhängige Entscheidungen: Außentemperatur, Windstärke, Luftfeuchtigkeit, Regen
-- Automatische Gerätesteuerung: LüftungHeizung, Klimaanlage, Luftbefeuchter, Luftreiniger, Fenster
-- Intelligente Logik: Grenzwerte(Normal/Warnung/Alarm), Priorisierte Maßnahmen, Energieoptimierung, Vermeidung unnötiger Laufzeiten
+- Real-time monitoring of: CO₂, Temperature, Humidity,Particulate matter (fine dust)
+- Weather-dependent decisions based on: Outdoor temperature, Wind speed, Humidity, Rain
+- Automatic device control: Ventilation, Heating,Air conditioning, Humidifier, Air purifier, Windows
+- Intelligent control logic: Threshold levels (Normal / Warning / Alarm), Prioritized actions, Energy optimization, Avoidance of unnecessary device runtime
 
 # Technologien
+
 - C#
 - .NET (Konsolenanwendung)
 - isual Studio 2022
